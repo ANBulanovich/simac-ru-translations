@@ -2610,7 +2610,7 @@ msgstr "{course_id} недействительный ключ курса."
 #: lms/templates/header/navbar-not-authenticated.html:53
 #: lms/templates/header/navbar-not-authenticated.html:57
 msgid "Register for free"
-msgstr "Бесплатная регистрация"
+msgstr "Бесплатная тестовая регистрация"
 
 #: lms/templates/header/navbar-not-authenticated.html:40
 msgid "Discover courses"
