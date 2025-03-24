@@ -2607,6 +2607,11 @@ msgstr "Дополнительная информация о достижени�
 msgid "{course_id} is not a valid course key."
 msgstr "{course_id} недействительный ключ курса."
 
+#: lms/templates/header/navbar-not-authenticated.html:53
+#: lms/templates/header/navbar-not-authenticated.html:57
+msgid "Register for free"
+msgstr "Бесплатная регистрация"
+
 #: lms/djangoapps/commerce/api/v1/serializers.py:57
 #, python-brace-format
 msgid "Course {course_id} does not exist."
