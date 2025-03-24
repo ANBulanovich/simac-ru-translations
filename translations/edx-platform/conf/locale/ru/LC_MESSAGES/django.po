@@ -2612,6 +2612,10 @@ msgstr "{course_id} недействительный ключ курса."
 msgid "Register for free"
 msgstr "Бесплатная регистрация"
 
+#: lms/templates/header/navbar-not-authenticated.html:40
+msgid "Discover courses"
+msgstr "Все наши курсы"
+
 #: lms/djangoapps/commerce/api/v1/serializers.py:57
 #, python-brace-format
 msgid "Course {course_id} does not exist."
