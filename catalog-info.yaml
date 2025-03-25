@@ -4,7 +4,7 @@ metadata:
   name: 'openedx-translations'
   description: "This repository contains the Translation files for Open edX"
   links:
-    - url: "https://github.com/openedx/openedx-translations"
+    - url: "https://github.com/ANBulanovich/simac-ru-translations"
       title: "Source Code"
       icon: "Code"
   annotations:
